@@ -163,8 +163,14 @@ const createBlogPostItem = (post, index) => {
   postItem.classList.add('blog-post-item');
 
   const postLink = document.createElement('a');
-  postLink.href = post.url; // Reemplazar con la propiedad de URL real de tu objeto post
-  postLink.target = '_blank'; // Abrir enlace en una nueva pestaña o ventana
+
+  // Verificar si la URL es "#"
+  if (post.url && post.url !== '#') {
+    postLink.href = post.url; // Establecer la URL
+    postLink.target = '_blank'; // Abrir en una nueva pestaña o ventana
+  } else {
+    postLink.href = '#'; // Establecer como "#" si la URL es "#"
+  }
 
   const bannerBox = document.createElement('figure');
   bannerBox.classList.add('blog-banner-box');
