@@ -638,17 +638,45 @@ button.contact::before {
   scroll-snap-align: center;
 }
 
+/* Estilo para pantalla grande */
 .testimonials-avatar-box {
   position: absolute;
   top: 0;
   left: 0;
   transform: translate(15px, -25px);
-  background: var(--bg-gradient-onyx);
-  border-radius: 14px;
+  background: linear-gradient( to bottom right, hsl(240, 1%, 25%) 3%, hsl(0, 0%, 19%) 97% );
   box-shadow: var(--shadow-1);
 }
 
+/* Estilo para pantalla pequeña (modo celular) */
+@media (max-width: 767px) {
+  .testimonials-avatar-box {
+    background: var(--border-gradient-onyx); /* Cambia el fondo en modo celular */
+    box-shadow: none; /* Elimina la sombra */
+  }
+
+  .testimonials-avatar-box img {
+    width: auto; /* Establece el ancho a automático para mantener el tamaño original de la imagen */
+    background-color: transparent; /* Fondo transparente para la imagen */
+  }
+}
+
 .testimonials-item-title { margin-bottom: 7px; }
+
+/* Añadido: Modificación de variable para fondo en modo celular */
+@media (max-width: 767px) {
+  :root {
+    --bg-gradient-onyx: var(--border-gradient-onyx);
+  }
+}
+
+/* Añadido: Quitar la definición de --border-gradient-onyx en modo celular */
+@media (max-width: 767px) {
+  :root {
+    --border-gradient-onyx: none;
+  }
+}
+
 
 .testimonials-text {
   color: var(--light-gray);
@@ -750,6 +778,28 @@ button.contact::before {
 
 .modal-close-btn ion-icon { --ionicon-stroke-width: 50px; }
 
+/* Estilo para .testimonials-avatar-box en pantalla grande */
+.testimonials-avatar-box {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translate(15px, -25px);
+  background: var(--bg-gradient-onyx);
+  border-radius: 14px;
+  box-shadow: var(--shadow-1);
+}
+
+/* Estilo para .testimonials-avatar-box en pantalla pequeña (modo celular) */
+@media (max-width: 767px) {
+  .testimonials-avatar-box {
+    position: static;
+    transform: none;
+    box-shadow: none;
+    border-radius: 0;
+  }
+}
+
+/* Estilo para .modal-avatar-box en pantalla grande */
 .modal-avatar-box {
   background: var(--bg-gradient-onyx);
   width: max-content;
@@ -758,9 +808,28 @@ button.contact::before {
   box-shadow: var(--shadow-2);
 }
 
-.modal-img-wrapper > img { display: none; }
+/* Estilo para mantener el ancho original de las imágenes en pantalla grande */
+.modal-avatar-box img {
+  width: auto;
+}
 
-.modal-title { margin-bottom: 4px; }
+/* Estilo para mantener el ancho original de las imágenes en pantalla pequeña (modo celular) */
+@media (max-width: 767px) {
+  .modal-avatar-box img {
+    width: auto;
+  }
+}
+
+/* Estilo para .modal-img-wrapper */
+.modal-img-wrapper > img {
+  display: none;
+}
+
+/* Estilo para .modal-title */
+.modal-title {
+  margin-bottom: 4px;
+}
+
 
 .modal-content time {
   font-size: var(--fs-6);
@@ -1376,7 +1445,7 @@ button.contact::before {
 
   .avatar-box { border-radius: 30px; }
 
-  .avatar-box img { width: 80px; }
+  .avatar-box img { width: 50px; }
 
   .info-content .name { margin-bottom: 15px; }
 
@@ -1464,7 +1533,7 @@ button.contact::before {
     border-radius: 20px;
   }
 
-  .testimonials-avatar-box img { width: 80px; }
+  .testimonials-avatar-box img { width: 50px; }
 
   .testimonials-item-title {
     margin-bottom: 10px;
