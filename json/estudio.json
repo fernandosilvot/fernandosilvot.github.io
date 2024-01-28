@@ -1,0 +1,21 @@
+{
+    "instituciones": [
+      {
+        "nombre": "Duoc Uc - San Joaquín",
+        "descripcion": "Esta institución me permite realizar cursos y certificaciones académicas.",
+        "imagen": "./image/cittsj.svg"
+      }
+    ],
+    "cursos": [
+      {
+        "nombre": "AWS Particioner",
+        "imagen": "./image/amazonaws.svg",
+        "descripcion": "Curso para realizar la certificación de AWS Particioner"
+      },
+      {
+        "nombre": "Certificación 1",
+        "descripcion": "Descripción de la certificación 1."
+      }
+    ]
+  }
+  
