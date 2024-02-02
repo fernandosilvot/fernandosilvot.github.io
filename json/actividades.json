@@ -1,0 +1,69 @@
+[
+    {
+      "imageSrc": "./image/Amazon-Web.png",
+      "imageSrc2": "./image/aws_final_curso.jpeg",
+      "imageAlt": "cierre del curso de certificación de AWS Practitioner",
+      "category": "Actividades",
+      "date": "Diciembre 1, 2023",
+      "title": "Cierre del curso de certificación de AWS Practitioner",
+      "resume": "cierre del curso de certificación",
+      "text": "Tuve la grata experiencia el pasado Viernes 1 de diciembre de poder realizar el cierre del curso de certificación de AWS Practitioner en las instalaciones de Amazon Web Services (AWS) en Santiago. Muy buena experiencia, les agradezco por abrir sus puertas, compartir sus conocimientos, vivencias y escuchar sus consejos sobre cómo abordar la certificación.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_aws-duocuc-educaciaejn-activity-7139069039397462016-F72e?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./image/pythonchile.png",
+      "imageSrc2": "./image/pycon2023.jpeg",
+      "imageAlt": "PyCon Chile 2023",
+      "category": "Actividades",
+      "date": "Noviembre 25, 2023",
+      "resume": "Participacion PyConChile23 en Valparaíso",
+      "title": "Participacion PyConChile23 en Valparaíso",
+      "text": "¡Excelente experiencia en el PyConChile23 en Valparaíso! 🚀 Disfruté de increíbles charlas sobre Python y aproveché para hacer networking.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_pyconchile23-python-networking-activity-7134559082362855424-n87q?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./image/ey.png",
+      "imageSrc2": "./image/finxperience.jpeg",
+      "imageAlt": "Hackatón FinXperience",
+      "category": "Actividades",
+      "date": "Noviembre 21, 2023",
+      "resume": "participante",
+      "title": "Hackatón FinXperience",
+      "text": "Quiero expresar mi sincero agradecimiento a EY y Duoc UC por brindarme la increíble oportunidad de participar en la Hackatón FinXperience: 'Diseñando una experiencia financiera única'. Fue un honor formar parte de este desafío que nos invitó a explorar la innovación tecnológica y abordar problemáticas en la industria financiera chilena.Agradezco a los organizadores por el trabajo en la planificación y ejecución de este evento, así como a los expertos y mentores que compartieron su valioso conocimiento durante las charlas, paneles y talleres. La experiencia fue verdaderamente enriquecedora, permitiéndome aplicar habilidades prácticas y aprender de profesionales destacados.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_hackataejn-tech-eychile-activity-7132820868384092161-AH0Y?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./image/cittsj.svg",
+      "imageSrc2": "./image/feria_vivo_duoc.jpeg",
+      "imageAlt": "Participacion feria san joaquin se vive",
+      "category": "Actividades",
+      "date": "Septiembre 6, 2023",
+      "resume":"Colaboración en el stand del CITT San Joaquín",
+      "title": "Participacion San Joaquín Se Vive",
+      "text": "Tuve el placer de disfrutar de una experiencia enriquecedora en la feria 'San Joaquín Se Vive' mientras colaboraba en el stand del CITT San Joaquín, rodeado de un equipo excepcional. ",
+      "url":"https://www.linkedin.com/posts/fernando-silvo-t_duocuc-sanjoaquaednsevive-activity-7105377892859002880-qBUS?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./image/logo_usergroup.png",
+      "imageSrc2": "./image/aws_comunity.jpeg",
+      "imageAlt": "Participacion aws",
+      "category": "Actividades",
+      "date": "Julio 1, 2023",
+      "resume":"Expositor de los proyectos en el stand del CITT San Joaquín",
+      "title": "Participacion AWS Security Community Day",
+      "text": "Expositor de los proyectos en el stand del CITT San Joaquín, en el evento de AWS Security Community Day, en el Duoc UC San Joaquín.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_duocuc-aws-activity-7081026480956170240-dBRa?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./image/channels4_profile.jpg",
+      "imageSrc2": "./image/PXL_20230610_012745007.jpg",
+      "imageAlt": "Participacion en la Hackathon Duoc Maipu",
+      "category": "Actividades",
+      "date": "Junio 9 - 10, 2023",
+      "resume":" 5to lugar de 40 equipos participantes",
+      "title": "Participacion en la Hackathon Duoc Maipu",
+      "text": "Junto a mi equipo de trabajo, Rodrigo Pizarro Regueiro y Cristobal Walters, participamos en la Hackathon Duoc Maipu, donde obtuvimos el 6to lugar de 40 equipos participantes.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_hackathoncitt2023-activity-7073275085104508928-f-CO?utm_source=share&utm_medium=member_desktop"
+    }
+  ]
+  

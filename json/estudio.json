@@ -2,19 +2,24 @@
     "instituciones": [
       {
         "nombre": "Duoc Uc - San Joaquín",
-        "descripcion": "Esta institución me permite realizar cursos y certificaciones académicas.",
-        "imagen": "./image/cittsj.svg"
+        "descripcion": "Esta institución me brinda la oportunidad de realizar diversos cursos y certificaciones académicas, enriqueciendo mi formación y ampliando mis habilidades.",
+        "imagen": "./image/Duoc.svg"
       }
     ],
     "cursos": [
       {
         "nombre": "AWS Particioner",
         "imagen": "./image/amazonaws.svg",
-        "descripcion": "Curso para realizar la certificación de AWS Particioner"
+        "descripcion": "Curso para realizar la certificación de AWS Particioner",
+        "link": "https://www.credly.com/badges/689394ec-9f82-4fac-8e0c-5810fca3cee0/linked_in_profile",
+        "tipo": "credencial"
       },
       {
-        "nombre": "Certificación 1",
-        "descripcion": "Descripción de la certificación 1."
+        "nombre": "Python Essentials 1",
+        "imagen": "./image/cisco.svg",
+        "descripcion": "Curso para estudiar y practicar Python", 
+        "link": "https://www.credly.com/badges/747460fa-0910-4341-b126-6753953596de/linked_in_profile",
+        "tipo": "credencial"
       }
     ]
   }
