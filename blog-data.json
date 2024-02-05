@@ -1,5 +1,32 @@
 [
     {
+      "imageSrc": "./assets/images/aws_final_curso.jpeg",
+      "imageAlt": "Cierre curso AWS Practitioner",
+      "category": "Experiencias",
+      "date": "Diciembre 1, 2023",
+      "title": "Cierre del curso de certificación AWS Practitioner",
+      "text": "Grata experiencia realizando el cierre del curso de certificación de AWS Practitioner en las instalaciones de Amazon Web Services (AWS) en Santiago. Agradezco por abrir sus puertas, compartir conocimientos y escuchar consejos sobre cómo abordar la certificación.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_aws-duocuc-educaciaejn-activity-7139069039397462016-F72e?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./assets/images/pycon2023.jpeg",
+      "imageAlt": "PyCon Chile 23",
+      "category": "Eventos",
+      "date": "Noviembre 25, 2023",
+      "title": "PyCon Chile 23",
+      "text": "Excelente experiencia en PyCon Chile 23 en Valparaíso. Disfruté de increíbles charlas sobre Python y hice networking. Acompañado por Benjamin Mora Torres, Francisco Iturra, Diego Palmeiro Silva, Valentina Paz Guajardo Salinas, Cristian Duarte. ¡Sumérgete en el mundo de Python con nosotros!",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_pyconchile23-python-networking-activity-7134559082362855424-n87q?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./assets/images/finxperience.jpeg",
+      "imageAlt": "Hackatón FinXperience",
+      "category": "Experiencias",
+      "date": "Noviembre 21, 2023",
+      "title": "Hackatón FinXperience",
+      "text": "Agradezco a EY y Duoc UC por la oportunidad de participar en la Hackatón FinXperience: 'Diseñando una experiencia financiera única'. Fue un honor explorar la innovación tecnológica y abordar problemáticas en la industria financiera chilena.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_hackataejn-tech-eychile-activity-7132820868384092161-AH0Y?utm_source=share&utm_medium=member_desktop"
+    },
+    {
       "imageSrc": "./assets/images/blog_wwjs.png",
       "imageAlt": "wwjs_bot",
       "category": "Proyectos",

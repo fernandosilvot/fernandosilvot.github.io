@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
+  <defs>
+    <linearGradient id="amazon_gradient" x1="3.26667" y1="1" x2="37.8" y2="39.1334" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#amazon_gradient)" d="M20 0C8.954 0 0 8.954 0 20s8.954 20 20 20 20-8.954 20-20S31.046 0 20 0zm0 38.75c-10.688 0-18.75-8.062-18.75-18.75S9.312 1.25 20 1.25 38.75 9.312 38.75 20 30.688 38.75 20 38.75z"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="10" fill="url(#amazon_gradient)" text-anchor="middle" dy=".3em">AWS</text>
+</svg>

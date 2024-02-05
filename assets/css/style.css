@@ -514,7 +514,7 @@ button.resume {
 }
 
 button.resume::before {
-  content: "Educacion";
+  content: "Educación";
   font-size: 16px; /* Ajusta el tamaño de fuente según tus preferencias */
   display: inline-block;
 }
