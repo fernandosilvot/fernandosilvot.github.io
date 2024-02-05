@@ -23,3 +23,18 @@ var typed_github = new Typed('#github', {
     typeSpeed: 20,
     showCursor: false,
  });
+var typed_amazon = new Typed('#amazon', {
+    strings: ['Amazon Web Services (AWS)'],
+    typeSpeed: 20,
+    showCursor: false,
+ });
+var typed_desarrollo = new Typed('#desarrollo', {
+    strings: ['Desarrollador Full-Stack'],
+    typeSpeed: 20,
+    showCursor: false,
+ });
+var typed_opensource = new Typed('#opensource', {
+    strings: ['Proyectos Open Source'],
+    typeSpeed: 20,
+    showCursor: false,
+ });
