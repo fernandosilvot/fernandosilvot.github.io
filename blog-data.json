@@ -1,5 +1,41 @@
 [
     {
+      "imageSrc": "./assets/images/python_challenge_day_2024.png",
+      "imageAlt": "🐍PYTHON CHALLENGER DAY - 2024! 🎉",
+      "category": "Experiencias",
+      "date": "Mayo, 2024",
+      "title": "🐍PYTHON CHALLENGER DAY - 2024! 🎉",
+      "text": "Tuve el honor de ser el anfitrión y uno de los organizadores del 🐍PYTHON CHALLENGER DAY - 2024🐍",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_pythonchallengerday2024-citt-pythonchile-activity-7212662524238798850-duC2?utm_source=combined_share_message&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./assets/images/lider-citt.png",
+      "imageAlt": "Líder CITT",
+      "category": "Experiencias",
+      "date": "Mayo, 2024",
+      "title": "Líder CIT",
+      "text": "Mi papel como líder CITT es inspirar y guiar a mis compañeros en los emocionantes proyectos que llevamos a cabo en cada Track del CITT.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_he-comenzado-un-nuevo-rol-como-l%C3%ADder-citt-activity-7189049458028908544-zLvv?utm_source=combined_share_message&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./assets/images/Nerderla.png",
+      "imageAlt": "experiencia inolvidable en Nerdearla",
+      "category": "Experiencias",
+      "date": "Mayo, 2024",
+      "title": "Experiencia inolvidable en Nerdearla",
+      "text": "Esta oportunidad me permitió explorar el mundo del desarrollo y conocer nuevas perspectivas. A pesar de solo poder asistir un día, cada momento valió la pena.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_desarrollodesoftware-github-tecnologaeda-activity-7185653291672834051-smZv?utm_source=combined_share_message&utm_medium=member_desktop"
+    },
+    {
+      "imageSrc": "./assets/images/semana_0.png",
+      "imageAlt": "🌟 ¡Bienvenidos, nuevos alumnos de Duoc UC! 🌟",
+      "category": "Experiencias",
+      "date": "Marzo, 2024",
+      "title": "🌟 ¡Bienvenidos, nuevos alumnos de Duoc UC! 🌟",
+      "text": "Durante esta semana 0, tuvimos el privilegio de representar al Centro de Innovación y Transferencia Tecnológica (CITT) de Duoc UC San Joaquín.",
+      "url": "https://www.linkedin.com/posts/fernando-silvo-t_duocuc-semana0-citt-activity-7171618832153829376-Oj3l?utm_source=combined_share_message&utm_medium=member_desktop"
+    },
+    {
       "imageSrc": "./assets/images/aws_final_curso.jpeg",
       "imageAlt": "Cierre curso AWS Practitioner",
       "category": "Experiencias",
