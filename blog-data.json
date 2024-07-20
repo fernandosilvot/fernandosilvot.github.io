@@ -1,9 +1,18 @@
 [
     {
+      "imageSrc": "./assets/images/meetup-1.jpg",
+      "imageAlt": "Primera Participación como anfitrión en meetup",
+      "category": "Experiencias",
+      "date": "Julio 18, 2024",
+      "title": "Primera meetup AWS User Group Chile",
+      "text": "Tuve el honor de ser el anfitrión y uno de los organizadores del meetup 'Ocultando la nube de AWS en entornos On premise (Storage Gateway)' ",
+      "url": "https://www.meetup.com/es-ES/aws-user-group-chile/events/302209083/"
+    },
+    {
       "imageSrc": "./assets/images/python_challenge_day_2024.png",
       "imageAlt": "🐍PYTHON CHALLENGER DAY - 2024! 🎉",
       "category": "Experiencias",
-      "date": "Mayo, 2024",
+      "date": "Junio, 2024",
       "title": "🐍PYTHON CHALLENGER DAY - 2024! 🎉",
       "text": "Tuve el honor de ser el anfitrión y uno de los organizadores del 🐍PYTHON CHALLENGER DAY - 2024🐍",
       "url": "https://www.linkedin.com/posts/fernando-silvo-t_pythonchallengerday2024-citt-pythonchile-activity-7212662524238798850-duC2?utm_source=combined_share_message&utm_medium=member_desktop"
